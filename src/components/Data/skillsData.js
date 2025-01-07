@@ -7,7 +7,7 @@ import bootstrap from '../../assets/skills/bootstrap.svg';
 import postgresql from '../../assets/skills/postgresql.svg';
 import figma from '../../assets/skills/figma.svg';
 import canva from '../../assets/skills/canva.svg';
-import mongodb from '../../assets/skills/MongoDB.svg';
+import mongodb from '../../assets/skills/mongoDB.svg';
 import tailwind from '../../assets/skills/tailwind.svg';
 import vitejs from '../../assets/skills/vitejs.svg';
 import python from '../../assets/skills/python.svg';
