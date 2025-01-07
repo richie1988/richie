@@ -1,0 +1,10 @@
+canvas {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  pointer-events: none; /* Prevent interaction with other elements */
+  background-color: rgb(41, 34, 36); /* Ensure background matches your theme */
+}

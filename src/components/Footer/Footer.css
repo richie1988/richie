@@ -1,0 +1,87 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer-content p {
+    margin: 10px 0;
+    font-size: 0.9rem;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+  }
+  
+  .footer-links li {
+    font-size: 0.9rem;
+  }
+  
+  .footer-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links a:hover {
+    color: #00bcd4; /* Highlight color for links */
+  }
+  
+  /* Social Icons Container */
+.social-icons {
+    display: flex;
+    justify-content: center; /* Center the icons horizontally */
+    align-items: center;    /* Align icons vertically */
+    gap: 15px;              /* Space between icons */
+    margin: 20px 0;         /* Add margin for spacing */
+  }
+  
+  /* Individual Social Icons */
+  .social-icons a {
+    display: inline-block;
+    width: 40px;            /* Set width for icons */
+    height: 40px;           /* Set height for icons */
+    background-color: #76787e; /* Background for hover effect */
+    border-radius: 50%;     /* Make icons circular */
+    box-shadow: 0 4px 6px rgba(136, 133, 133, 0.1); /* Soft shadow */
+    overflow: hidden;       /* Prevent image overflow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* Social Icons Images */
+  .social-icons a img {
+    width: 100%;            /* Ensure images fit fully inside the icon */
+    height: 100%;           /* Prevent distortion */
+    object-fit: cover;      /* Keep aspect ratio */
+    border-radius: 50%;     /* Keep images circular */
+  }
+  
+  /* Hover Effect for Icons */
+  .social-icons a:hover {
+    transform: scale(1.1);  /* Slight zoom effect */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .social-icons {
+      gap: 10px;            /* Reduce gap between icons for smaller screens */
+    }
+  
+    .social-icons a {
+      width: 35px;          /* Slightly smaller icons on mobile */
+      height: 35px;
+    }
+  }
+  
