@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://richie1988.github.io/My_PORTFOLIO_SITE/)
+- [Live Demo](https://richie-gqm7.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
