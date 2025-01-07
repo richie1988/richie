@@ -13,7 +13,7 @@ import vitejs from '../../assets/skills/vitejs.svg';
 import python from '../../assets/skills/python.svg';
 import strapi from '../../assets/skills/strapi.svg';
 import wordpress from '../../assets/skills/wordpress.svg';
-import Microsoftoffice from '../../assets/skills/Microsoftoffice.svg'
+import Microsoftoffice from '../../assets/skills/microsoftoffice.svg'
 
 export const skillsData = [
   { name: 'HTML', image: html },
