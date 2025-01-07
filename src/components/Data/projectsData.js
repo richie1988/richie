@@ -1,5 +1,5 @@
 import one from '../../assets/projects/happmusic.png'
-import two from '../../assets/projects/Spacetraveller.png'
+import two from '../../assets/projects/spacetraveller.png'
 import three from '../../assets/projects/liqourstore.png'
 import four from '../../assets/projects/leaderboard.png'
 import five from '../../assets/projects/mariochannel.png'
